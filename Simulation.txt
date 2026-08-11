@@ -1,0 +1,2 @@
+iverilog -o decoder_sim decoder2to4.v decoder2to4_tb.v
+vvp decoder_sim
